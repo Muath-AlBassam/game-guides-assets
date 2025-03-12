@@ -19,7 +19,7 @@
 - <u>Characters:</u>
   - <u>PROFILE:</u> From [Hoyolab](https://www.hoyolab.com/accountCenter/postList?id=17195645), open GI page then download profile image from "All characters" page.
   - <u>CARD:</u> From [GI Official Page](https://genshin.hoyoverse.com/en/character/mondstadt), open & download character image
-    - Crop images to 964px $\times$ 1320px
+    - Crop images to: 964 $\times$ 1320
 - <u>Weapons:</u> From [Hoyolab](https://www.hoyolab.com/accountCenter/postList?id=17195645), open GI page & download image from a character's details
 - <u>Sets:</u> From [Hoyolab](https://www.hoyolab.com/accountCenter/postList?id=17195645), open GI page then open set wiki from a character's details & dowmload Flower piece image
 
@@ -32,9 +32,9 @@
 
 - <u>Characters:</u>
   - <u>PROFILE:</u> From [Hoyolab](https://www.hoyolab.com/accountCenter/postList?id=17195645), open HSR page then download image from "Simplified" view
-    - Crop images to 160px $\times$ 160px
+    - Crop images to: 160 $\times$ 160
   - <u>CARD:</u> From [fandom wiki](https://honkai-star-rail.fandom.com/wiki/Character/List), download "Portrait" image from character's page
-    - Crop images to 250px $\times$ 342px ~ 600px $\times$ 821px
+    - Crop images to: 250 $\times$ 342 ~ 600 $\times$ 821
 - <u>Weapons:</u> From [Hoyolab](https://www.hoyolab.com/accountCenter/postList?id=17195645), open HSR page & download image from a character's details
 - <u>Sets:</u> From [HoYowiki](https://wiki.hoyolab.com/pc/hsr/aggregate/108), open a set page & dowmload Head piece image
 
@@ -47,9 +47,9 @@
 
 - <u>Characters:</u>
   - <u>PROFILE:</u> From [Hoyolab](https://www.hoyolab.com/accountCenter/postList?id=17195645), open ZZZ page then  download image from a character's "Wiki" page
-    - Crop images to 256px $\times$ 256px ~ 330px $\times$ 330px
+    - Crop images to: 256 $\times$ 256 ~ 330 $\times$ 330
   - <u>CARD:</u> From [Hoyolab](https://www.hoyolab.com/accountCenter/postList?id=17195645), open ZZZ page then  download image from a character's "Wiki" page
-    - Crop images to 500px $\times$ 684px
+    - Crop images to: 450 $\times$ 616 ~ 500 $\times$ 684
 - <u>Weapons:</u> From [Hoyolab](https://www.hoyolab.com/accountCenter/postList?id=17195645), open ZZZ page & download image from a character's details
 - <u>Sets:</u> From [fandom wiki](https://zenless-zone-zero.fandom.com/wiki/Drive_Disc/List), open & download image
   - Change parameter in url (50) to (256)
