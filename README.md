@@ -1,14 +1,14 @@
+## Run Service
+- Run [start-assets-server.bat](./start-assets-server.bat) file to start the project locally
+
+<br>
+
 ## Helper Links
 
 - Aspect Ratio Calculator: [Here](https://andrew.hedges.name/experiments/aspect_ratio/)
   - Card image base Ratio: 160px $\times$ 219px
 - ILoveImage image cropper: [Here](https://www.iloveimg.com/crop-image)
 - Remove background: [Here](https://www.remove.bg/)
-
-<br>
-
-## Run Service
-- Run [start-assets.bat](./start-assets.bat) file to start the project locally
 
 <br>
 
