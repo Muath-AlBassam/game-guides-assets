@@ -34,7 +34,7 @@
   - <u>PROFILE:</u> From [Hoyolab](https://www.hoyolab.com/accountCenter/postList?id=17195645), open HSR page then download image from "Simplified" view
     - Crop images to: 160 $\times$ 160
   - <u>CARD:</u> From [fandom wiki](https://honkai-star-rail.fandom.com/wiki/Character/List), download "Portrait" image from character's page
-    - Crop images to: 250 $\times$ 342 ~ 600 $\times$ 821
+    - Crop images to: 250 $\times$ 342 ~ 400 $\times$ 548 ~ 600 $\times$ 821
 - <u>Weapons:</u> From [Hoyolab](https://www.hoyolab.com/accountCenter/postList?id=17195645), open HSR page & download image from a character's details
 - <u>Sets:</u> From [HoYowiki](https://wiki.hoyolab.com/pc/hsr/aggregate/108), open a set page & dowmload Head piece image
 
