@@ -46,13 +46,15 @@
 <img src="assets/images/zzz/ZZZ_Logo.png" alt="Step 1" width="200"/>
 
 - <u>Characters:</u>
-  - <u>PROFILE:</u> From [Hoyolab](https://www.hoyolab.com/accountCenter/postList?id=17195645), open ZZZ page then  download image from a character's "Wiki" page
+  - <u>PROFILE:</u> From [HoYowiki](https://wiki.hoyolab.com/pc/zzz/aggregate/8), open character's page then download image
     - Crop images to: 256 $\times$ 256 ~ 330 $\times$ 330
-  - <u>CARD:</u> From [Hoyolab](https://www.hoyolab.com/accountCenter/postList?id=17195645), open ZZZ page then  download image from a character's "Wiki" page
+  - <u>CARD:</u> From [HoYowiki](https://wiki.hoyolab.com/pc/zzz/aggregate/8), open character's page then download image
     - Crop images to: 450 $\times$ 616 ~ 500 $\times$ 684
 - <u>Weapons:</u> From [Hoyolab](https://www.hoyolab.com/accountCenter/postList?id=17195645), open ZZZ page & download image from a character's details
 - <u>Sets:</u> From [fandom wiki](https://zenless-zone-zero.fandom.com/wiki/Drive_Disc/List), open & download image
   - Change parameter in url (50) to (256)
+- <u>Bangboo:</u> From [fandom wiki](https://zenless-zone-zero.fandom.com/wiki/Bangboo), open & download image
+  - Crop images to: 250 $\times$ 250
 
 <img src="assets/readme/zzz-image-loc-1.png" alt="Step 1" width="500"/>
 <br/>
