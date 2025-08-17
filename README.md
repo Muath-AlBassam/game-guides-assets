@@ -7,7 +7,8 @@
 
 - Aspect Ratio Calculator: <a href="https://andrew.hedges.name/experiments/aspect_ratio/" target="_blank">Here</a>
   - Card image base Ratio: 160px $\times$ 219px
-- ILoveImage image cropper: <a href="https://www.iloveimg.com/crop-image" target="_blank">Here</a>
+- **ResizePixel** image modifier: <a href="https://www.resizepixel.com/" target="_blank">Here</a>
+- **ILoveImage** image cropper: <a href="https://www.iloveimg.com/crop-image" target="_blank">Here</a>
 - Remove background: <a href="https://www.remove.bg/" target="_blank">Here</a>
 
 <br>
@@ -36,7 +37,7 @@
   - <u>CARD:</u> From <a href="https://honkai-star-rail.fandom.com/wiki/Character/List" target="_blank">fandom wiki</a>, download "Portrait" image from character's page
     - Crop images to: 250 $\times$ 342 ~ 400 $\times$ 548 ~ 600 $\times$ 821
 - <u>Weapons:</u> From <a href="https://www.hoyolab.com/accountCenter/postList?id=17195645" target="_blank">Hoyolab</a>, open HSR page & download image from a character's details
-- <u>Sets:</u> From <a href="https://wiki.hoyolab.com/pc/hsr/aggregate/108" target="_blank">HoYowiki</a>, open a set page & dowmload Head piece image
+- <u>Sets:</u> From <a href="https://www.hoyolab.com/accountCenter/postList?id=17195645" target="_blank">Hoyolab</a>, open HSR page & download image of Head/Orb piece from a character's details
 
 <img src="assets/readme/hsr-image-loc-1.png" alt="Step 1" width="500"/>
 
