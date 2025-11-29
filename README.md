@@ -60,12 +60,3 @@
 <img src="assets/readme/zzz-image-loc-1.png" alt="Step 1" width="500"/>
 <br/>
 <img src="assets/readme/zzz-image-loc-2.png" alt="Step 2" width="500"/>
-
----
-<br>
-
-<img src="assets/images/bl4/BL4_Logo.png" alt="Step 1" width="200"/>
-
-- <u>Characters:</u> From <a href="https://borderlands.2k.com/borderlands-4/game-info/#vault-hunters" target="_blank">BL4 Official Page</a>
-- <u>Guns:</u> From <a href="https://www.lootlemon.com/grenade-mod/spinning-blade-bl4" target="_blank">here</a>
-- <u>Equipment:</u> From <a href="https://www.lootlemon.com/grenade-mod/spinning-blade-bl4" target="_blank">here</a>
