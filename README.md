@@ -9,6 +9,7 @@
   - Card image base Ratio: 160px $\times$ 219px
 - **ResizePixel** image modifier: <a href="https://www.resizepixel.com/" target="_blank">Here</a>
 - **ILoveImage** image cropper: <a href="https://www.iloveimg.com/crop-image" target="_blank">Here</a>
+- **PINETOOLS** image rotator: <a href="https://pinetools.com/rotate-image" target="_blank">Here</a>
 - Remove background: <a href="https://www.remove.bg/" target="_blank">Here</a>
 
 <br>
