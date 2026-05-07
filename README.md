@@ -6,12 +6,12 @@
 ## Helper Links
 
 - Aspect Ratio Calculator: <a href="https://andrew.hedges.name/experiments/aspect_ratio/" target="_blank">Here</a>
-  - Card image base Ratio: 160px $\times$ 219px
-- **ResizePixel** - image modifier: <a href="https://www.resizepixel.com/" target="_blank">Here</a>
-- **ILoveImage** - image cropper: <a href="https://www.iloveimg.com/crop-image" target="_blank">Here</a>
-- **PINETOOLS** - image rotator: <a href="https://pinetools.com/rotate-image" target="_blank">Here</a>
-- **cloudconvert** - image converter: <a href="https://cloudconvert.com/webp-to-png" target="_blank">Here</a>
-- Remove background: <a href="https://www.remove.bg/" target="_blank">Here</a>
+  - Base Ratio (character card): 160px $\times$ 219px
+- Modify image: <a href="https://www.resizepixel.com/" target="_blank">ResizePixel</a>
+- Crop image: <a href="https://www.iloveimg.com/crop-image" target="_blank">ILoveImage</a>
+- Rotate image: <a href="https://pinetools.com/rotate-image" target="_blank">PINETOOLS</a>
+- Convert image: <a href="https://cloudconvert.com/webp-to-png" target="_blank">cloudconvert</a>
+- Remove background: <a href="https://www.remove.bg/" target="_blank">removebg</a>
 
 <br>
 
@@ -49,9 +49,9 @@
 <img src="assets/images/zzz/ZZZ_Logo.png" alt="Step 1" width="200"/>
 
 - <u>Characters:</u>
-  - <u>PROFILE:</u> From <a href="https://wiki.hoyolab.com/pc/zzz/aggregate/8" target="_blank">HoYowiki</a>, open character's page then download image
+  - <u>PROFILE:</u> From <a href="https://wiki.hoyolab.com/pc/zzz/aggregate/8" target="_blank">HoYowiki</a> / <a href="https://zenless-zone-zero.fandom.com/wiki/Agent" target="_blank">fandom wiki</a>, open character's page then download image
     - Crop images to: 256 $\times$ 256 ~ 330 $\times$ 330
-  - <u>CARD:</u> From <a href="https://wiki.hoyolab.com/pc/zzz/aggregate/8" target="_blank">HoYowiki</a>, open character's page then download image
+  - <u>CARD:</u> From <a href="https://wiki.hoyolab.com/pc/zzz/aggregate/8" target="_blank">HoYowiki</a> / <a href="https://zenless-zone-zero.fandom.com/wiki/Agent" target="_blank">fandom wiki</a>, open character's page then download image
     - Crop images to: 450 $\times$ 616 ~ 500 $\times$ 684
 - <u>Weapons:</u> From <a href="https://www.hoyolab.com/accountCenter/postList?id=17195645" target="_blank">Hoyolab</a>, open ZZZ page & download image from a character's details
 - <u>Sets:</u> From <a href="https://zenless-zone-zero.fandom.com/wiki/Drive_Disc/List" target="_blank">fandom wiki</a>, open & download image
