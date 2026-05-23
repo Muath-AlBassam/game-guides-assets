@@ -38,6 +38,8 @@
     - Crop images to: 160 $\times$ 160
   - <u>CARD:</u> From <a href="https://honkai-star-rail.fandom.com/wiki/Character/List" target="_blank">fandom wiki</a>, download "Portrait" image from character's page
     - Crop images to: 250 $\times$ 342 ~ 400 $\times$ 548 ~ 600 $\times$ 821
+  - <u>Skin:</u> From <a href="https://honkai-star-rail.fandom.com/wiki/Character/List" target="_blank">fandom wiki</a>, download "Portrait" image from character's page under "Outfit" section
+    - Crop images to: 250 $\times$ 342 ~ 400 $\times$ 548 ~ 600 $\times$ 821
 - <u>Weapons:</u> From <a href="https://www.hoyolab.com/accountCenter/postList?id=17195645" target="_blank">Hoyolab</a>, open HSR page & download image from a character's details
 - <u>Sets:</u> From <a href="https://www.hoyolab.com/accountCenter/postList?id=17195645" target="_blank">Hoyolab</a>, open HSR page & download image of Head/Orb piece from a character's details
 
@@ -53,6 +55,7 @@
     - Crop images to: 256 $\times$ 256 ~ 330 $\times$ 330
   - <u>CARD:</u> From <a href="https://wiki.hoyolab.com/pc/zzz/aggregate/8" target="_blank">HoYowiki</a> / <a href="https://zenless-zone-zero.fandom.com/wiki/Agent" target="_blank">fandom wiki</a>, open character's page then download image
     - Crop images to: 450 $\times$ 616 ~ 500 $\times$ 684
+  - <u>Skin:</u> From <a href="https://zenless-zone-zero.fandom.com/wiki/Agent" target="_blank">fandom wiki</a>, download "Outfit Portrait" image from character's page
 - <u>Weapons:</u> From <a href="https://www.hoyolab.com/accountCenter/postList?id=17195645" target="_blank">Hoyolab</a>, open ZZZ page & download image from a character's details
 - <u>Sets:</u> From <a href="https://zenless-zone-zero.fandom.com/wiki/Drive_Disc/List" target="_blank">fandom wiki</a>, open & download image
   - Change parameter in url (50) to (256)
