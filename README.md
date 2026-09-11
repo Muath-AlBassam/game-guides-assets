@@ -61,6 +61,7 @@
   - Change parameter in url (50) to (256)
 - <u>Bangboo:</u> From <a href="https://zenless-zone-zero.fandom.com/wiki/Bangboo" target="_blank">fandom wiki</a>, open & download image
   - Crop images to: 250 $\times$ 250
+- <u>Icons (Elements/Specialty):</u> From <a href="https://www.hoyolab.com/accountCenter/postList?id=17195645" target="_blank">Hoyolab</a>, go to 'All agents', download image from character icons
 
 <img src="assets/readme/zzz-image-loc-1.png" alt="Step 1" width="500"/>
 <br/>
