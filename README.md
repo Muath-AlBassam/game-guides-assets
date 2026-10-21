@@ -10,7 +10,7 @@
 - Modify image: <a href="https://www.resizepixel.com/" target="_blank">ResizePixel</a>
 - Crop image: <a href="https://www.iloveimg.com/crop-image" target="_blank">ILoveImage</a>
 - Rotate image: <a href="https://pinetools.com/rotate-image" target="_blank">PINETOOLS</a>
-- Convert image: <a href="https://cloudconvert.com/webp-to-png" target="_blank">cloudconvert</a>
+- Convert image: ~~<a href="https://cloudconvert.com/webp-to-png" target="_blank">cloudconvert</a>~~ <a href="https://pixlr.com/converter/webp-to-png/" target="_blank">Pixlr</a>
 - Remove background: <a href="https://www.remove.bg/" target="_blank">removebg</a>
 
 <br>
@@ -22,9 +22,8 @@
 - <u>Characters:</u>
   - <u>PROFILE:</u> From <a href="https://www.hoyolab.com/accountCenter/postList?id=17195645" target="_blank">Hoyolab</a>, open GI page then download profile image from "All characters" page.
   - <u>CARD:</u> From <a href="https://genshin.hoyoverse.com/en/character/mondstadt" target="_blank">GI Official Page</a>, open & download character image
-    - Crop images to: 964 $\times$ 1320
-- <u>Weapons:</u> From <a href="https://www.hoyolab.com/accountCenter/postList?id=17195645" target="_blank">Hoyolab</a>, open GI page & download image from a character's details
-- <u>Sets:</u> From <a href="https://www.hoyolab.com/accountCenter/postList?id=17195645" target="_blank">Hoyolab</a>, open GI page then open set wiki from a character's details & dowmload Flower piece image
+- <u>WEAPONS:</u> From <a href="https://www.hoyolab.com/accountCenter/postList?id=17195645" target="_blank">Hoyolab</a>, open GI page & download image from a character's details
+- <u>SETS:</u> From <a href="https://www.hoyolab.com/accountCenter/postList?id=17195645" target="_blank">Hoyolab</a>, open GI page then open set wiki from a character's details & dowmload Flower piece image
 
 <img src="assets/readme/gi-image-loc-1.png" alt="Step 1" width="500"/>
 
@@ -34,14 +33,10 @@
 <img src="assets/images/hsr/HSR_Logo.png" alt="Step 1" width="200"/>
 
 - <u>Characters:</u>
-  - <u>PROFILE:</u> From <a href="https://www.hoyolab.com/accountCenter/postList?id=17195645" target="_blank">Hoyolab</a>, open HSR page then download image from "Simplified" view
-    - Crop images to: 160 $\times$ 160
-  - <u>CARD:</u> From <a href="https://honkai-star-rail.fandom.com/wiki/Character/List" target="_blank">fandom wiki</a>, download "Portrait" image from character's page
-    - Crop images to: 250 $\times$ 342 ~ 400 $\times$ 548 ~ 600 $\times$ 821
-  - <u>Skin:</u> From <a href="https://honkai-star-rail.fandom.com/wiki/Character/List" target="_blank">fandom wiki</a>, download "Portrait" image from character's page under "Outfit" section
-    - Crop images to: 250 $\times$ 342 ~ 400 $\times$ 548 ~ 600 $\times$ 821
-- <u>Weapons:</u> From <a href="https://www.hoyolab.com/accountCenter/postList?id=17195645" target="_blank">Hoyolab</a>, open HSR page & download image from a character's details
-- <u>Sets:</u> From <a href="https://www.hoyolab.com/accountCenter/postList?id=17195645" target="_blank">Hoyolab</a>, open HSR page & download image of Head/Orb piece from a character's details
+  - <u>PROFILE / CARD:</u> From <a href="https://honkai-star-rail.fandom.com/wiki/Character/List" target="_blank">fandom wiki</a>, download "Portrait" image from character's page
+  - <u>SKIN:</u> From <a href="https://honkai-star-rail.fandom.com/wiki/Character/List" target="_blank">fandom wiki</a>, download "Portrait" image from character's page under "Outfit" section
+- <u>WEAPONS:</u> From <a href="https://www.hoyolab.com/accountCenter/postList?id=17195645" target="_blank">Hoyolab</a>, open HSR page & download image from a character's details
+- <u>SETS:</u> From <a href="https://www.hoyolab.com/accountCenter/postList?id=17195645" target="_blank">Hoyolab</a>, open HSR page & download image of Head/Orb piece from a character's details
 
 <img src="assets/readme/hsr-image-loc-1.png" alt="Step 1" width="500"/>
 
@@ -51,13 +46,10 @@
 <img src="assets/images/zzz/ZZZ_Logo.png" alt="Step 1" width="200"/>
 
 - <u>Characters:</u>
-  - <u>PROFILE:</u> From <a href="https://wiki.hoyolab.com/pc/zzz/aggregate/8" target="_blank">HoYowiki</a> / <a href="https://zenless-zone-zero.fandom.com/wiki/Agent" target="_blank">fandom wiki</a>, open character's page then download image
-    - Crop images to: 256 $\times$ 256 ~ 330 $\times$ 330
-  - <u>CARD:</u> From <a href="https://wiki.hoyolab.com/pc/zzz/aggregate/8" target="_blank">HoYowiki</a> / <a href="https://zenless-zone-zero.fandom.com/wiki/Agent" target="_blank">fandom wiki</a>, open character's page then download image
-    - Crop images to: 450 $\times$ 616 ~ 500 $\times$ 684
-  - <u>Skin:</u> From <a href="https://zenless-zone-zero.fandom.com/wiki/Agent" target="_blank">fandom wiki</a>, download "Outfit Portrait" image from character's page
-- <u>Weapons:</u> From <a href="https://www.hoyolab.com/accountCenter/postList?id=17195645" target="_blank">Hoyolab</a>, open ZZZ page & download image from a character's details
-- <u>Sets:</u> From <a href="https://zenless-zone-zero.fandom.com/wiki/Drive_Disc/List" target="_blank">fandom wiki</a>, open & download image
+  - <u>PROFILE / CARD:</u> From ~~<a href="https://wiki.hoyolab.com/pc/zzz/aggregate/8" target="_blank">HoYowiki</a>~~ / <a href="https://zenless-zone-zero.fandom.com/wiki/Agent" target="_blank">fandom wiki</a>, open character's page then download image
+  - <u>SKIN:</u> From <a href="https://zenless-zone-zero.fandom.com/wiki/Agent" target="_blank">fandom wiki</a>, download "Outfit Portrait" image from character's page
+- <u>WEAPONS:</u> From <a href="https://www.hoyolab.com/accountCenter/postList?id=17195645" target="_blank">Hoyolab</a>, open ZZZ page & download image from a character's details
+- <u>SETS:</u> From <a href="https://zenless-zone-zero.fandom.com/wiki/Drive_Disc/List" target="_blank">fandom wiki</a>, open & download image
   - Change parameter in url (50) to (256)
 - <u>Bangboo:</u> From <a href="https://zenless-zone-zero.fandom.com/wiki/Bangboo" target="_blank">fandom wiki</a>, open & download image
   - Crop images to: 250 $\times$ 250
