@@ -7,11 +7,12 @@
 
 - Aspect Ratio Calculator: <a href="https://andrew.hedges.name/experiments/aspect_ratio/" target="_blank">Here</a>
   - Base Ratio (character card): 160px $\times$ 219px
-- Modify image: <a href="https://www.resizepixel.com/" target="_blank">ResizePixel</a>
 - Crop image: <a href="https://www.iloveimg.com/crop-image" target="_blank">ILoveImage</a>
 - Rotate image: <a href="https://pinetools.com/rotate-image" target="_blank">PINETOOLS</a>
 - Convert image: ~~<a href="https://cloudconvert.com/webp-to-png" target="_blank">cloudconvert</a>~~ <a href="https://pixlr.com/converter/webp-to-png/" target="_blank">Pixlr</a>
+- Upscale image: <a href="https://www.waifu2x.net/" target="_blank">waifu2x</a>
 - Remove background: <a href="https://www.remove.bg/" target="_blank">removebg</a>
+- Modify image: <a href="https://www.resizepixel.com/" target="_blank">ResizePixel</a>
 
 <br>
 
